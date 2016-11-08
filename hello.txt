@@ -1,1 +1,1 @@
-"new stuff" 
+Hello!  Here is some new stuff for your file! 
